@@ -1,4 +1,7 @@
-﻿# Copyright 2013 KOZO Keikaku Engineering Inc
+﻿#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Copyright 2013 KOZO Keikaku Engineering Inc
+
 import math, os, sys, time
 from bisect import bisect
 from random import expovariate, random, seed
